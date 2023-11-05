@@ -16,10 +16,14 @@ clone this repo [pip](https://github.com/pankaj10032/hackout2023_projects) to in
 ```bash
 git clone https://github.com/pankaj10032/hackout2023_projects.git
 ```
-Since I was running the code on server that's why I have no option of collection audio so I have collected audio manually by running the file 
+Since I was running the code on server that's why I have no option of collection audio so I have collected audio manually by running the file , make sure to specify the path of audio in the **output_filename** otherwise just provide filename so it will save the Audio file in the same directory in which audio.py is present, make sure that format of the Audio file should be ".flac".
+
 ```bash
 python audio.py
 ```
+After running Audio.py Open the file name llama2_text_2_text.py", specify model_id you want like higher versions of llama, I have here used the llama7b chat model taken from the huggingface, also make sure to specify the huggingface token of your account on which you have the access of llama model, in the variable named 
+ **hf_auth**
+
 
 After that jusy get the path of that file 
 ## how to run the code
