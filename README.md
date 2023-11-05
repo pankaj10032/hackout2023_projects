@@ -16,6 +16,9 @@ clone this repo [pip](https://github.com/pankaj10032/hackout2023_projects) to in
 ```bash
 git clone https://github.com/pankaj10032/hackout2023_projects.git
 ```
+## how to run the code
+
+
 
 # Discription
 
