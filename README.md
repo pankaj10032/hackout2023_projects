@@ -16,9 +16,14 @@ clone this repo [pip](https://github.com/pankaj10032/hackout2023_projects) to in
 ```bash
 git clone https://github.com/pankaj10032/hackout2023_projects.git
 ```
+Since I was running the code on server that's why I have no option of collection audio so I have collected audio manually by running the file 
+```bash
+python 
+```
 ## how to run the code
+*First run the *
 open the file  **config_hi.py**
-# Discription
+# Description
 
 ## Audio Extraction:-
 we are here basically making the multilingual speech to speech Question Answering sysetm, Here we have first taken the Audio file as input from the user in any language like Hindi, English, marathi, bangali,Tamil or any other foreign language and taking audio into ".flac" format since our openai/whisper-large-v2 support this format only with the frequency should be 16000HZ and time duration to be less like around 10 second or lesser, so that context widnow of the model doesn't get fit.
@@ -40,3 +45,7 @@ Here we have our answer as English text so we wlll convert that into multilingua
 
 ## Text to Audio conversion:-
 Since in the last step we have got the text into mulitilingual languages that user want, Now we have converted that text into Audio using the google translator(gtts) library, since there is not any good mulitilingual(hindi, marathi or foreign languages), into Audio of the same language, but make sure to specify the language code like for the hindi code is 'hi' .
+
+
+## problem solved by our model:-
+The main use case of this mulitilingual Voice QA is st the Railway station, where 
