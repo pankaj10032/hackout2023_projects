@@ -31,3 +31,9 @@ In this case we have user query as obtained from the last step from audio to tex
 ## make sure before using llama you must have the access of that, you can get the access of that on meta website by filling the google form of that and also get the access from huggingface also , put the samer Email id at both the places.
 
 Here we can also use OpenAI but On the industry level that will be cosly,we can also use higher versions of Llama like 13b, 70b parameters model to get the better results.
+
+## English text to Desire language by user(multilingual) text conversion:-
+Here we have our answer as English text so we wlll convert that into multilingual language(marathi, hindi, bengali) as per desired by user
+
+## Text to Audio conversion:-
+Since 
