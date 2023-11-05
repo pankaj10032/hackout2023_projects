@@ -38,4 +38,4 @@ Here we can also use OpenAI but On the industry level that will be cosly,we can 
 Here we have our answer as English text so we wlll convert that into multilingual language(marathi, hindi, bengali) as per desired by user
 
 ## Text to Audio conversion:-
-Since 
+Since in the last step we have got the text into mulitilingual languages that user want, Now we have converted that text into Audio using the google translator(gtts) library, since there is not any good mulitilingual(hindi, marathi or foreign languages), into Audio of the same language, but make sure to specify the language code like for the 
