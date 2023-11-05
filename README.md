@@ -1,7 +1,7 @@
 # hackout2023_projects
 we are here basically making the multilingual speech to speech Question Answering sysetm, Here we have first taken the Audio file as input from the user in any language like Hindi, English, marathi, bangali,Tamil or any other 
 
-**TO run the code, first just collect the audio file using the **
+**To run the code, first just collect the audio file using the **
 
 
 **Audio Extraction**:-
