@@ -1,7 +1,7 @@
 # hackout2023_projects
 we are here basically making the multilingual speech to speech Question Answering sysetm, Here we have first taken the Audio file as input from the user in any language like Hindi, English, marathi, bangali,Tamil or any other 
 
-**To run the code, first just collect the audio file using the **
+**To run the code, first just collect the audio file using the file named "audio.py" **
 
 
 **Audio Extraction**:-
@@ -19,3 +19,5 @@ In this case we have user query as obtained from the last step from audio to tex
 **make sure before using llama you must have the access of that, you can get the access of that on meta website by filling the google form of that and also get the access from huggingface also , put the samer Email id at both the places.**
 
 *Here we can also use OpenAI but On the industry level that will be cosly,we can also use higher versions of Llama like 13b, 70b parameters model to get the better results.*
+
+*Our next step is to used the *
