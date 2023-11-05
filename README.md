@@ -18,8 +18,10 @@ git clone https://github.com/pankaj10032/hackout2023_projects.git
 ```
 Since I was running the code on server that's why I have no option of collection audio so I have collected audio manually by running the file 
 ```bash
-python 
+python audio.py
 ```
+
+After that jusy get the path of that file 
 ## how to run the code
 *First run the *
 open the file  **config_hi.py**
