@@ -1,11 +1,13 @@
 
-AMAN NANDA <iit2021272@iiita.ac.in>
-4:34 PM (0 minutes ago)
-to me
 
-# Multilingol Voice Q&A
+
+# Multilingual Voice Q&A
 
 We are here basically making the multilingual speech to speech Question Answering sysetm, Here we have first taken the Audio file as input from the user in any language like Hindi, English, marathi, bangali,Tamil or any other
+
+*Here is overview of our project*
+![overview](https://github.com/pankaj10032/hackout2023_projects/blob/main/multilingual%20voice%20QA.drawio.png?raw=true)
+
 
 ## Installation
 
