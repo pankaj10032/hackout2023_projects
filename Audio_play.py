@@ -24,5 +24,5 @@ def play_audio_with_pygame(audio_file_path):
         print(f"Error: {e}")
 
 # Example usage:
-# audio_file = "C:/Users/panka/Desktop/hackout_2023/marathi_1_recorded_audio.flac"
-# play_audio_with_pygame(audio_file)
+audio_file = "C:/Users/panka/Desktop/hackout_2023/marathi_1_recorded_audio.flac"
+play_audio_with_pygame(audio_file)
