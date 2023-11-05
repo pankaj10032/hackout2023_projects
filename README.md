@@ -17,9 +17,7 @@ clone this repo [pip](https://github.com/pankaj10032/hackout2023_projects) to in
 git clone https://github.com/pankaj10032/hackout2023_projects.git
 ```
 ## how to run the code
-
-
-
+open the file  **config_hi.py**
 # Discription
 
 ## Audio Extraction:-
