@@ -6,8 +6,6 @@
 We are here basically making the multilingual speech to speech Question Answering sysetm, Here we have first taken the Audio file as input from the user in any language like Hindi, English, marathi, bangali,Tamil or any other
 
 *Here is overview of our project*
-# ![overview](https://github.com/pankaj10032/hackout2023_projects/blob/main/multilingual%20voice%20QA.drawio.png?raw=true)
-
 ![Screenshot 2024-03-14 113545](https://github.com/pankaj10032/mulitilingual-VoiceQA/assets/97507747/bf1092ec-169b-4de7-ba9e-0291c2bfcb9b)
 
 ## Installation
