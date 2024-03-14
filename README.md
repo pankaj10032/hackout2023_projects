@@ -8,7 +8,7 @@ We are here basically making the multilingual speech to speech Question Answerin
 *Here is overview of our project*
 # ![overview](https://github.com/pankaj10032/hackout2023_projects/blob/main/multilingual%20voice%20QA.drawio.png?raw=true)
 
-![image](https://github.com/pankaj10032/mulitilingual-VoiceQA/assets/97507747/f4172efc-3c29-4546-83fc-4e12e427975f)
+![Screenshot 2024-03-14 113545](https://github.com/pankaj10032/mulitilingual-VoiceQA/assets/97507747/bf1092ec-169b-4de7-ba9e-0291c2bfcb9b)
 
 ## Installation
 
